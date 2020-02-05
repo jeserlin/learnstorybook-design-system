@@ -1,3 +1,15 @@
+# v0.1.17 (Wed Feb 05 2020)
+
+#### ⚠️  Pushed to master
+
+- Comment auto shipit  ([@jeserlin](https://github.com/jeserlin))
+
+#### Authors: 1
+
+- jeserlin chiu ([@jeserlin](https://github.com/jeserlin))
+
+---
+
 # v0.1.16 (Wed Feb 05 2020)
 
 #### ⚠️  Pushed to master
