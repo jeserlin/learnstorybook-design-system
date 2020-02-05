@@ -1,6 +1,6 @@
 {
   "name": "learnstorybook-design-system-jeserlin",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "private": false,
   "dependencies": {
     "@babel/core": "7.8.4",
