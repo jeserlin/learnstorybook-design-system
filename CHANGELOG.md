@@ -1,3 +1,15 @@
+# v0.1.12 (Wed Feb 05 2020)
+
+#### ⚠️  Pushed to master
+
+- fix  ([@jeserlin](https://github.com/jeserlin))
+
+#### Authors: 1
+
+- jeserlin chiu ([@jeserlin](https://github.com/jeserlin))
+
+---
+
 # v0.1.11 (Wed Feb 05 2020)
 
 #### ⚠️  Pushed to master
