@@ -1,6 +1,6 @@
 {
   "name": "learnstorybook-design-system-jeserlin",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
