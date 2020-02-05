@@ -25,7 +25,15 @@
   },
   "babel": {
     "presets": [
-      "react-app"
+      "react-app",
+      [
+        "@babel/preset-env",
+        {
+          "targets": {
+            "node": "current"
+          }
+        }
+      ]
     ]
   },
   "eslintConfig": {
@@ -45,6 +53,8 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
     "@storybook/addon-a11y": "^5.3.10",
     "@storybook/addon-actions": "^5.3.10",
     "@storybook/addon-docs": "^5.3.10",
