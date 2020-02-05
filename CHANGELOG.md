@@ -1,3 +1,15 @@
+# v0.1.15 (Wed Feb 05 2020)
+
+#### ⚠️  Pushed to master
+
+- Fix auto shipit.  ([@jeserlin](https://github.com/jeserlin))
+
+#### Authors: 1
+
+- jeserlin chiu ([@jeserlin](https://github.com/jeserlin))
+
+---
+
 # v0.1.14 (Wed Feb 05 2020)
 
 Test
