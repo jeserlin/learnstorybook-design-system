@@ -1,5 +1,25 @@
 # v0.1.1 (Wed Feb 05 2020)
 
+#### 🐛  Bug Fix
+
+- Add sample test. [#3](https://github.com/jeserlin/learnstorybook-design-system/pull/3) ([@jeserlin](https://github.com/jeserlin))
+- Test PR [#2](https://github.com/jeserlin/learnstorybook-design-system/pull/2) ([@jeserlin](https://github.com/jeserlin))
+
+#### ⚠️  Pushed to master
+
+- Test circle CI.  ([@jeserlin](https://github.com/jeserlin))
+- Adjust circle config file  ([@jeserlin](https://github.com/jeserlin))
+- Add release script  ([@jeserlin](https://github.com/jeserlin))
+- Change package name.  ([@jeserlin](https://github.com/jeserlin))
+
+#### Authors: 1
+
+- jeserlin chiu ([@jeserlin](https://github.com/jeserlin))
+
+---
+
+# v0.1.1 (Wed Feb 05 2020)
+
 #### ⚠️  Pushed to master
 
 - Adjust circle config file  ([@jeserlin](https://github.com/jeserlin))
